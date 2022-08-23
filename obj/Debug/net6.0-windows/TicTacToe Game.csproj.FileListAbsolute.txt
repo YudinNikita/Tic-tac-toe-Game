@@ -1,0 +1,17 @@
+D:\download\C#\TicTacToe Game\bin\Debug\net6.0-windows\TicTacToe Game.exe
+D:\download\C#\TicTacToe Game\bin\Debug\net6.0-windows\TicTacToe Game.deps.json
+D:\download\C#\TicTacToe Game\bin\Debug\net6.0-windows\TicTacToe Game.runtimeconfig.json
+D:\download\C#\TicTacToe Game\bin\Debug\net6.0-windows\TicTacToe Game.dll
+D:\download\C#\TicTacToe Game\bin\Debug\net6.0-windows\TicTacToe Game.pdb
+D:\download\C#\TicTacToe Game\obj\Debug\net6.0-windows\TicTacToe Game.csproj.AssemblyReference.cache
+D:\download\C#\TicTacToe Game\obj\Debug\net6.0-windows\TicTacToe_Game.TicTacToe.resources
+D:\download\C#\TicTacToe Game\obj\Debug\net6.0-windows\TicTacToe Game.csproj.GenerateResource.cache
+D:\download\C#\TicTacToe Game\obj\Debug\net6.0-windows\TicTacToe Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\download\C#\TicTacToe Game\obj\Debug\net6.0-windows\TicTacToe Game.AssemblyInfoInputs.cache
+D:\download\C#\TicTacToe Game\obj\Debug\net6.0-windows\TicTacToe Game.AssemblyInfo.cs
+D:\download\C#\TicTacToe Game\obj\Debug\net6.0-windows\TicTacToe Game.csproj.CoreCompileInputs.cache
+D:\download\C#\TicTacToe Game\obj\Debug\net6.0-windows\TicTacToe Game.dll
+D:\download\C#\TicTacToe Game\obj\Debug\net6.0-windows\refint\TicTacToe Game.dll
+D:\download\C#\TicTacToe Game\obj\Debug\net6.0-windows\TicTacToe Game.pdb
+D:\download\C#\TicTacToe Game\obj\Debug\net6.0-windows\TicTacToe Game.genruntimeconfig.cache
+D:\download\C#\TicTacToe Game\obj\Debug\net6.0-windows\ref\TicTacToe Game.dll
